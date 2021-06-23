@@ -70,6 +70,8 @@ social:
 email: ""
 
 # Highlight the author in author lists? (true/false)
+# His research interests include ``` Deep learning, Computer Vision, Intelligent Manufacturing, Full stack development (Front-end development, Back-end development, Desktop development)``` .
+
 highlight_name: false
 ---
 
@@ -78,7 +80,5 @@ highlight_name: false
 Although his major is not computer science, he studied it systematically out of a strong passion. He used deep learning and other computer technologies to solve problems in Textile area, such as ```fabric defect detection, fabric smoothness evaluation, fabric images style transfer, fabric simulation, etc ```.  
 
 **Shuo Meng** is looking for a PhD position, preferably in **Computer Science**. 
-
-# His research interests include ``` Deep learning, Computer Vision, Intelligent Manufacturing, Full stack development (Front-end development, Back-end development, Desktop development)``` .
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
