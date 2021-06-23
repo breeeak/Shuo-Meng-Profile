@@ -10,6 +10,9 @@ main:
   - name: Education
     url: '/#education'
     weight: 15
+  - name: Skills
+    url: '#skills'
+    weight: 16
   - name: Posts
     url: '#posts'
     weight: 20
