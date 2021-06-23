@@ -20,8 +20,8 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: test@example.org
-phone: 888 888 88 88
+email: s.mengjiangnan@gmail.com
+phone: +86 13151919791
 address:
   street: 1800 Lihu Avenue, Binhu District
   city: Wuxi
@@ -32,10 +32,10 @@ address:
 coordinates:
   latitude: '120.277757'
   longitude: '31.489746'
-directions: Enter Building 1 and take the stairs to Office D204 on Floor 2
+directions: Enter Building College of Textile and Clothing and take the stairs to Office D204 on Floor 2
 office_hours:
   - 'Weekday 10:00 to 17:00'
-appointment_url: 'https://www.jiangnan.edu.cn/'
+# appointment_url: 'https://www.jiangnan.edu.cn/'
 contact_links:
   - icon: twitter
     icon_pack: fab
