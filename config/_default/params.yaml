@@ -32,17 +32,17 @@ coordinates:
   longitude: '31.489746'
 directions: Enter Building College of Textile and Clothing and take the stairs to Office D204
 office_hours:
-  - 'Weekday 10:00 to 17:00'
+  - 'Weekday 09:00 to 21:00'
 email: s.mengjiangnan@gmail.com
 phone: +86 13151919791
 # appointment_url: 'https://www.jiangnan.edu.cn/'
 contact_links:
   - icon: weixin
     icon_pack: fab
-    name: +86 13151919791
+    name: WeChat Me at 13151919791
   - icon: skype
     icon_pack: fab
-    name: Skype Me
+    name: Skype Me at 13151919791
     link: 'skype:+86 13151919791?call'
 #  - icon: keybase
 #    icon_pack: fab

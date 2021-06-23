@@ -21,7 +21,8 @@ interests:
 - Deep Learning 
 - Transfer Learning
 - Computer Vision
-- Software Development (Full-stack, Mobile, Desktop)
+- Software Development
+- (Full-stack, Mobile, Desktop)
 
 
 
@@ -72,7 +73,7 @@ email: ""
 # Highlight the author in author lists? (true/false)
 # His research interests include ``` Deep learning, Computer Vision, Intelligent Manufacturing, Full stack development (Front-end development, Back-end development, Desktop development)``` .
 
-highlight_name: false
+highlight_name: true
 ---
 
 **Shuo Meng** is a master of Textile Engineering at Digital Textile Institution of Jiangnan University. He aims to sovle the practical engineering problems. For example, he leads the [“fabric recognition” project (”织识“)](https://www.jntex.cn/), which is using in the actural production and is highly praised. 
