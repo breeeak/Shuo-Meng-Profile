@@ -24,28 +24,17 @@ interests:
 - Intelligent Manufacturing
 
 # Education to show in About widget
-
-[comment]: <> (education:)
-
-[comment]: <> (  courses:)
-
-[comment]: <> (  - course: PhD in Artificial Intelligence)
-
-[comment]: <> (    institution: Stanford University)
-
-[comment]: <> (    year: 2012)
-
-[comment]: <> (  - course: MEng in Artificial Intelligence)
-
-[comment]: <> (    institution: Massachusetts Institute of Technology)
-
-[comment]: <> (    year: 2009)
-
-[comment]: <> (  - course: BSc in Artificial Intelligence)
-
-[comment]: <> (    institution: Massachusetts Institute of Technology)
-
-[comment]: <> (    year: 2008)
+# education:
+#  courses:
+#  - course: PhD in Artificial Intelligence
+#    institution: Stanford University
+#    year: 2012
+#  - course: MEng in Artificial Intelligence
+#    institution: Massachusetts Institute of Technology
+#    year: 2009
+#  - course: BSc in Artificial Intelligence
+#    institution: Massachusetts Institute of Technology
+#    year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
