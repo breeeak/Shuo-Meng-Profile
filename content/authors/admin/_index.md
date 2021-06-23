@@ -14,7 +14,7 @@ organizations:
   url: https://www.jiangnan.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include Deep Learning, Computer Vision and Full-stack Development.
 
 # Interests to show in About widget
 interests:
@@ -44,7 +44,7 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '/#contact'
-#- icon: twitter
+# - icon: weixin
 #  icon_pack: fab
 #  link: https://twitter.com/GeorgeCushen
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
@@ -71,8 +71,8 @@ email: ""
 highlight_name: false
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+**Shuo Meng** is a master of Textile Engineering at Digital Textile Institution of Jiangnan University. He aims to sovle the practical engineering problems and leads the [“fabric recognition” project (”织识“)](https://www.jntex.cn/), which is using in the actural production and is highly praised. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+**Shuo Meng** is looking for a PhD position, preferably in **computer science**. His research interests include ``` Deep learning, Computer Vision, Intelligent Manufacturing, Full stack development (Front-end development, Back-end development, Desktop development)``` .
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
