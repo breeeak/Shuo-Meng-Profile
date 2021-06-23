@@ -27,11 +27,8 @@ feature:
 - description: 70%
   icon: html5
   icon_pack: fab
-  name: Web Develop
-- description: 60%
-  icon: android
-  icon_pack: fab
-  name: Mobile Develop
+  name: HTML+JS+CSS
+
 
 
 # Uncomment to use emoji icons.
