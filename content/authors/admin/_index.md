@@ -18,10 +18,12 @@ bio: My research interests include Deep Learning, Computer Vision and Full-stack
 
 # Interests to show in About widget
 interests:
-- Deep Learning
+- Deep Learning 
+- Transfer Learning
 - Computer Vision
-- Full-stack Development
-- Intelligent Manufacturing
+- Software Development (Full-stack, Mobile, Desktop)
+
+
 
 # Education to show in About widget
 # education:
@@ -73,8 +75,10 @@ highlight_name: false
 
 **Shuo Meng** is a master of Textile Engineering at Digital Textile Institution of Jiangnan University. He aims to sovle the practical engineering problems. For example, he leads the [“fabric recognition” project (”织识“)](https://www.jntex.cn/), which is using in the actural production and is highly praised. 
 
-Although his major is not computer science, he studied it systematically out of a strong passion. He used deep learning and other computer technologies to solve problems in Textile area, such as fabric defect detection, fabric smoothness evaluation, fabric images style transfer, fabric simulation, etc.  
+Although his major is not computer science, he studied it systematically out of a strong passion. He used deep learning and other computer technologies to solve problems in Textile area, such as ```fabric defect detection, fabric smoothness evaluation, fabric images style transfer, fabric simulation, etc ```.  
 
-**Shuo Meng** is looking for a PhD position, preferably in **Computer Science**. His research interests include ``` Deep learning, Computer Vision, Intelligent Manufacturing, Full stack development (Front-end development, Back-end development, Desktop development)``` .
+**Shuo Meng** is looking for a PhD position, preferably in **Computer Science**. 
+
+# His research interests include ``` Deep learning, Computer Vision, Intelligent Manufacturing, Full stack development (Front-end development, Back-end development, Desktop development)``` .
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
