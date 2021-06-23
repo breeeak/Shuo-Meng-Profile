@@ -25,4 +25,14 @@ color: 'navy'
 text_color_light: true
 ---
 
-Add any content to the body of the section here.
+**Programming**: 
+  * Java, Python, MATLAB, C#, JavaScript, CSS, HTML, SQL, etc.
+
+**Frameworks**: 
+  * Springboot, SpingMVC, Mybatis, Maven, Redis, Django, Keras, TensorFlow, Pytorch, ES6, Vue, JQuery, Layui, uni-app, MySQL, SQLite, Git, etc.
+
+**Languages**: 
+  * Mandarin (Native), English (Fluent), IELTS 7 (Listening, Reading, Writing and Speaking: 8, 7, 6.5, 6.5).
+
+**Certificates**: 
+  * Certificate of National Computer II, Chinese National Scholarship, Excellent postgraduate of Jiangnan University.

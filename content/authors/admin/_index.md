@@ -82,4 +82,4 @@ Although his major is not computer science, he studied it systematically out of 
 
 **Shuo Meng** is looking for a PhD position, preferably in **Computer Science**. 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/ShuoMeng_CV.pdf" "newtab" >}}resumé{{< /staticref >}}.
