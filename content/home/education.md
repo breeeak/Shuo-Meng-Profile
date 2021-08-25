@@ -33,7 +33,7 @@ experience:
 
     **Degree:** PhD candidate of Biomedical Engineering
   
-    **GPA:** Not applicable
+    **GPA:** Not Applicable
 
 - # title: Jiangnan University (National " Project 211" University)
   company: Jiangnan University (National " Project 211" University)

@@ -81,6 +81,6 @@ highlight_name: true
 
 Although his major is not computer science, he studied it systematically out of a strong passion. He used deep learning and other computer technologies to solve problems in Textile area, such as ```fabric defect detection, fabric smoothness evaluation, fabric images style transfer, fabric simulation, etc ```.  
 
-**Shuo Meng** is now working for medical signal processing under <a href="https://www.cityu.edu.hk/bme/jinliahu/"> Prof. Hu Jinlian</a>. 
+**Shuo Meng** is now working for medical signal processing under <a href="https://www.cityu.edu.hk/bme/jinliahu/" target="_blank"> Prof. Hu Jinlian</a>. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/ShuoMeng_CV.pdf" "newtab" >}}resumé{{< /staticref >}}.
