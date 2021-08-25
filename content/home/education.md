@@ -28,7 +28,7 @@ experience:
   company_logo: cityulogo
   location: Hong Kong
   date_start: '2021-08-01'
-  date_end: 'Present'
+  date_end: ''
   description: |2-
 
     **Degree:** PhD candidate of Biomedical Engineering
