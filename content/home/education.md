@@ -22,6 +22,19 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+- # title: City University of Hong Kong
+  company: City University of Hong Kong
+  company_url: 'https://www.cityu.edu.hk/'
+  company_logo: cityulogo
+  location: Hong Kong
+  date_start: '2021-08-01'
+  date_end: 'Present'
+  description: |2-
+
+  **Degree:** PhD candidate of Biomedical Engineering
+
+  **GPA:** Not applicable
+
 - # title: Jiangnan University (National " Project 211" University)
   company: Jiangnan University (National " Project 211" University)
   company_url: 'https://www.jiangnan.edu.cn/'

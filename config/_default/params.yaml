@@ -21,10 +21,10 @@ twitter: ''
 # Contact (edit or remove options as required)
 
 address:
-  street: 1800 Lihu Avenue, Binhu District
-  city: Wuxi
-  region: Jiangsu Province
-  postcode: '214122'
+  street: Tat Chee Avenue
+  city: Kowloon
+  region: Hong Kong
+  postcode: '999077'
   country: China
   country_code: CN
 coordinates:
@@ -34,16 +34,16 @@ directions: Enter Building College of Textile and Clothing and take the stairs t
 office_hours:
   - 'Weekday 09:00 to 21:00'
 email: s.mengjiangnan@gmail.com
-phone: +86 13151919791
+phone: +852 59874424
 # appointment_url: 'https://www.jiangnan.edu.cn/'
 contact_links:
   - icon: weixin
     icon_pack: fab
-    name: WeChat Me at 13151919791
-  - icon: skype
+    name: WeChat Me at +86 13151919791
+  - icon: whatsapp
     icon_pack: fab
-    name: Skype Me at 13151919791
-    link: 'skype:+86 13151919791?call'
+    name: WhatsApp Me at +852 59874424
+    link: 'https://api.whatsapp.com/send?phone=85259874424'
 #  - icon: keybase
 #    icon_pack: fab
 #    name: Chat on Keybase

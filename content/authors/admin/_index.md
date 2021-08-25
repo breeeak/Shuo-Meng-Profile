@@ -6,18 +6,19 @@ title: Shuo Meng
 superuser: true
 
 # Role/position/tagline
-role: Master of Textile Engineering
+role: PhD candidate of Biomedical Engineering.
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Jiangnan University
-  url: https://www.jiangnan.edu.cn/
+- name: City University of Hong Kong
+  url: https://www.cityu.edu.hk/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Deep Learning, Computer Vision and Full-stack Development.
+bio: My research interests include Medical Signal Processing, Deep Learning, Computer Vision and Full-stack Development.
 
 # Interests to show in About widget
 interests:
+- Medical Signal Processing
 - Deep Learning 
 - Transfer Learning
 - Computer Vision
@@ -76,10 +77,10 @@ email: ""
 highlight_name: true
 ---
 
-**Shuo Meng** is a master of Textile Engineering at Digital Textile Institution of Jiangnan University. He aims to sovle the practical engineering problems. For example, he leads the [“fabric recognition” project (”织识“)](https://www.jntex.cn/), which is using in the actural production and is highly praised. 
+**Shuo Meng** is a PhD candidate of Biomedical Engineering at City University of Hong Kong. He aims to solve the practical engineering problems. For example, he leads the [“fabric recognition” project (”织识“)](https://www.jntex.cn/), which is using in the actural production and is highly praised. 
 
 Although his major is not computer science, he studied it systematically out of a strong passion. He used deep learning and other computer technologies to solve problems in Textile area, such as ```fabric defect detection, fabric smoothness evaluation, fabric images style transfer, fabric simulation, etc ```.  
 
-**Shuo Meng** is looking for a PhD position, preferably in **Computer Science**. 
+**Shuo Meng** is now working for medical signal processing under <a href="https://www.cityu.edu.hk/bme/jinliahu/"> Prof. Hu Jinlian</a>. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/ShuoMeng_CV.pdf" "newtab" >}}resumé{{< /staticref >}}.
